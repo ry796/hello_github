@@ -4,3 +4,9 @@ GitHub
 
 鈴木伶治です。Gitの使い方を学んでいます。
 
+
+#include<stdio.h>
+int main(){
+    printf("C言語みたいなやつ\n");
+    return 0;
+}
