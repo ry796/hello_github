@@ -10,3 +10,5 @@ int main(){
     printf("C言語みたいなやつ\n");
     return 0;
 }
+
+好きな食べ物：ラーメン
